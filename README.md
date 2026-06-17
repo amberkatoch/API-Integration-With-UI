@@ -32,9 +32,9 @@ API-Integration-With-UI/
 ├── script.js
 ├── README.md
 └── screenshots/
-├── home-page.png
-├── data-loaded.png
-└── error-state.png
+    ├── home-page.png
+    ├── data-loaded.png
+    └── error-state.png
 ```
 
 ## How to Run
